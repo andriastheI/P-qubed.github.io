@@ -4,8 +4,8 @@ Created on Feb 13, 2024
 @author: andri
 '''
 
-from Project_1.Resource.DeckOfCards import DeckOfCards
-from Project_1.Projects.War_Player import WP
+from DeckOfCards import DeckOfCards
+from War_Player import WP
 
 class WarGame():
     '''

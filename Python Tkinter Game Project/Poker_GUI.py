@@ -3,8 +3,8 @@ Created on Mar 2, 2024
 
 @author: andri
 '''
-from Project_1.Resource.DeckOfCards import DeckOfCards as DC
-from Project_1.Projects.Hustler import HL
+from DeckOfCards import DeckOfCards as DC
+from Hustler import HL
 import tkinter as tk
 from tkinter.simpledialog import askstring, askinteger
 

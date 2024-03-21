@@ -4,8 +4,8 @@ Created on Feb 14, 2024
 @author: twendt
 '''
 
-from Project_1.Resource.DeckOfCards import DeckOfCards as DC
-from Project_1.Projects.War_Player import WP
+from DeckOfCards import DeckOfCards as DC
+from War_Player import WP
 import tkinter as tk
 
 class WarGUI(object):

@@ -3,8 +3,8 @@ Created on Feb 22, 2024
 
 @author: andri
 '''
-from Project_1.Resource.DeckOfCards import DeckOfCards as DC
-from Project_1.Projects.Hustler import HL
+from DeckOfCards import DeckOfCards as DC
+from Hustler import HL
 
 class Poker(object):
     '''

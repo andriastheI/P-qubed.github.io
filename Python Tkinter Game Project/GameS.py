@@ -3,9 +3,9 @@ Created on Feb 28, 2024
 
 @author: andri
 '''
-from Project_1.Projects.BlackJack_GUI import BlackJackG
-from Project_1.Projects.Poker_GUI import PokerG
-from Project_1.Projects.War_GUI import WarGUI
+from BlackJack_GUI import BlackJackG
+from Poker_GUI import PokerG
+from War_GUI import WarGUI
 import tkinter as tk
 import random
 '''
